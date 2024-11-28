@@ -6,13 +6,13 @@
 /*   By: ramahrez <ramahrez@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/12 23:01:13 by ramahrez          #+#    #+#             */
-/*   Updated: 2024/11/21 18:02:07 by ramahrez         ###   ########.fr       */
+/*   Updated: 2024/11/28 16:45:11 by ramahrez         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-int	ft_atoi(const char *str, int *err)
+int	ft_atoi(const char *str)
 {
 	int	i;
 	int	n;
